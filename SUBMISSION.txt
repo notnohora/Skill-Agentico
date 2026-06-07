@@ -1,0 +1,33 @@
+======================================================================
+BETTERWAY DEVS - TALENT INTELLIGENCE SOURCING AGENT SUBMISSION
+======================================================================
+
+Candidata: Nohora Camila Cardozo Cardenas
+Fecha de Entrega: Junio 2026
+
+----------------------------------------------------------------------
+1. ENTREGABLES CLAVE
+----------------------------------------------------------------------
+LINK_LOOM: 
+LINK_NOTION_REPORT: https://dear-wedge-d5e.notion.site/BetterWay-Devs-Talent-Intelligence-Sourcing-Report-37869352d64d81a8930ee7643310fb91?source=copy_link
+
+----------------------------------------------------------------------
+2. MÉTRICA DE TIEMPO INVERTIDO
+----------------------------------------------------------------------
+Tiempo Total Invertido: [6 horas]
+* Desglose: 
+  - Investigación y Configuración del Entorno MCP: 35%
+  - Ingeniería de Prompts y Estructuración Agéntica (agent.md): 40%
+  - Pruebas, Debugging de Consistencia y Formato Base de Datos: 25%
+
+----------------------------------------------------------------------
+3. RESUMEN DE LA ARQUITECTURA ENTREGADA
+----------------------------------------------------------------------
+Para mitigar la rigidez en los sistemas agénticos, el repositorio incluye:
+- `agent.md`: Estructura base genérica con una matriz de pesos fija.
+- `agent-custom.md`: Versión paramétrica avanzada que acepta placeholders
+  y variables de configuración en tiempo de ejecución, facilitando la 
+  reutilización del skill para cualquier vacante futura sin tocar el core.
+- `notion-mcp-setup.md`: Guía técnica detallada paso a paso para la 
+  reproducción del entorno por parte del evaluador.
+======================================================================

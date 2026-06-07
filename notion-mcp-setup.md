@@ -21,7 +21,7 @@ Añade el siguiente bloque de configuración en el archivo de configuración de 
         "@modelcontextprotocol/server-notion"
       ],
       "env": {
-        "NOTION_API_KEY": "TU_INTEGRATION_SECRET_AQUI"
+        "NOTION_TOKEN": "TU_INTEGRATION_SECRET_AQUI"
       }
     }
   }
