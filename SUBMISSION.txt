@@ -8,7 +8,7 @@ Fecha de Entrega: Junio 2026
 ----------------------------------------------------------------------
 1. ENTREGABLES CLAVE
 ----------------------------------------------------------------------
-LINK_LOOM: https://www.loom.com/share/0554666194f74366b136ceb862a745db
+LINK_LOOM: https://www.loom.com/share/d78da75691b94bb58f4de4f33816d80e
 LINK_NOTION_REPORT: https://dear-wedge-d5e.notion.site/BetterWay-Devs-Talent-Intelligence-Sourcing-Report-37869352d64d81a8930ee7643310fb91?source=copy_link
 
 ----------------------------------------------------------------------
